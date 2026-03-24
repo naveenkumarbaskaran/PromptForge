@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="PromptForge" width="700">
+
 # 🔨 PromptForge
 
 **Enterprise Prompt Engineering Toolkit — Version Control, A/B Testing, and Compression**
